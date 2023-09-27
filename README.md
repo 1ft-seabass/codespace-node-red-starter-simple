@@ -4,8 +4,8 @@
 
 ## 環境を起動
 
-- このリポジトリを Code ボタン > Codespaces タブをクリック > Codespaces をクリック。
-- Codespace が ブラウザが開く
+- このリポジトリを Code ボタン > Codespaces タブをクリック > Create codespaces on main をクリック。
+- このリポジトリの内容で Codespace がブラウザが開く
 - 初回起動時に Node-RED インストールは自動で行われるので待ちます
 
 ## 使い方
