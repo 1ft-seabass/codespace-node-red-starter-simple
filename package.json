@@ -1,0 +1,16 @@
+{
+  "name": "codespace-node-red-starter-simple",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node-red -u ./.node-red"
+  },
+  "dependencies": {
+    "node-red": "^3.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
