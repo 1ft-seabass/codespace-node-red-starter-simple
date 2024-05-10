@@ -16,6 +16,12 @@
 npm start
 ```
 
+また `npm start` を使わず以下のコマンドでも実行可能です。
+
+```
+npx node-red -u ./.node-red
+```
+
 ## 中の仕組み
 
 - `sudo npm install -g --unsafe-perm node-red` でグローバルインストールしてしまうと設定フォルダが分かりにくい場所（/home/codespace/.node-red）で動作してしまうので、`npm i node-red` でプロジェクトフォルダ内にインストールした後、`node-red -u ./.node-red` で、プロジェクトフォルダ内の `.node-red` フォルダで設定フォルダが動作するようにしています。
