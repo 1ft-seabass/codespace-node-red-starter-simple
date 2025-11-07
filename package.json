@@ -8,7 +8,7 @@
     "start": "node-red -u ./.node-red"
   },
   "dependencies": {
-    "node-red": "^3.1.0"
+    "node-red": "^4.0.0"
   },
   "keywords": [],
   "author": "",
